@@ -23,6 +23,8 @@ El proyecto consta de varias secciones clave, que incluyen:
 
 1. **Página de Inicio**: Aquí, los usuarios pueden ver una introdiccion a la pagina web, una selección de libros destacados y acceder o registrarse a la pagina.
 
+![basic](https://github.com/ZeroDyna/Proyecto_desarrollo/basic.png)
+
 2. **Catálogo de Libros**: Los usuarios pueden explorar una variedad de libros organizados en categorías. Cada libro tiene una página individual con detalles, imágenes y precios.
 
 3. **Gestión de Usuarios**: Los usuarios pueden registrarse, iniciar sesión y gestionar sus cuentas.
