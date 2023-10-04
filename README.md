@@ -25,11 +25,9 @@ El proyecto consta de varias secciones clave, que incluyen:
 
 ![basic](https://github.com/ZeroDyna/Proyecto_desarrollo/blob/main/basic.PNG)
 
-2. **Catálogo de Libros**: Los usuarios pueden explorar una variedad de libros organizados en categorías. Cada libro tiene una página individual con detalles, imágenes y precios.
+2. **Gestión de Usuarios**: Los usuarios pueden registrarse.
 
-3. **Gestión de Usuarios**: Los usuarios pueden registrarse, iniciar sesión y gestionar sus cuentas.
-
-6. **Administración del Sitio**: Los administradores podran agregar, editar y eliminar libros, así como gestionar pedidos y usuarios.
+3. **Administración del Sitio**: Los administradores podran agregar, editar y eliminar libros, así como gestionar pedidos y usuarios.
 
 Avances Realizados:
 - Se ha desarrollado la estructura básica del sitio web.
