@@ -27,14 +27,19 @@ El proyecto consta de varias secciones clave, que incluyen:
 
 2. **Gestión de Usuarios**: Los usuarios pueden registrarse.
 
-3. **Administración del Sitio**: Los administradores podran agregar, editar y eliminar libros, así como gestionar pedidos y usuarios.
+![basic]( https://github.com/ZeroDyna/Proyecto_desarrollo/blob/main/sign.PNG )
+
+3. **Administración del Sitio**: Se vinculo una base de datos a traves de phpMyAdmin de manera de que se pueda registrar los usuarios registrados.
+
+![basic](https://github.com/ZeroDyna/Proyecto_desarrollo/blob/main/myadmin.jpg)
 
 Avances Realizados:
 - Se ha desarrollado la estructura básica del sitio web.
+- Animaciones de las imagenes para lapagina de entrada a traves de un archivo javascript.
 - Se han implementado formularios de registro y inicio de sesión para los usuarios.
 - Se ha creado una base de datos para almacenar información de libros y usuarios.
 
 Dificultades Encontradas:
-por llenar
+
 
 El proyecto está en una fase inicial de desarrollo, y se espera continuar trabajando en las funcionalidades restantes y resolver las dificultades mencionadas en las próximas semanas.
