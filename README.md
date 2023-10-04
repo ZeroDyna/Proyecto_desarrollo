@@ -40,6 +40,6 @@ Avances Realizados:
 - Se ha creado una base de datos para almacenar información de libros y usuarios.
 
 Dificultades Encontradas:
-
+-La pestala de sign up remplazo a la de login.
 
 El proyecto está en una fase inicial de desarrollo, y se espera continuar trabajando en las funcionalidades restantes y resolver las dificultades mencionadas en las próximas semanas.
